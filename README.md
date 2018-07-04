@@ -1,1 +1,3 @@
-# autohotkey config mouse para poner al inicio
+# autohotkey config
+
+config del mouse para poner al inicio
