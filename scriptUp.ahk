@@ -1,3 +1,4 @@
+#InstallMouseHook
 XButton2::
 SendInput,{PgUp}
 Sleep,300
