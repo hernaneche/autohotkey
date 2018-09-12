@@ -5,3 +5,4 @@ while (GetKeyState("XButton2", "P") ){
         SendInput,{PgUp}
         Sleep, 50
 }
+Return
